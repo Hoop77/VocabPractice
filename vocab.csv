@@ -1,0 +1,842 @@
+english,german,correct,wrong
+"companionship","Gesellschaft",0,0
+"gamut","Skala",0,0
+"witness","erleben/bezeugen",0,0
+"invasive","aufdringlich",0,0
+"intrude","einmischen",0,0
+"hostility","Feindseligkeit",0,0
+"hostile","feindselig",0,0
+"divulge","preisgeben, ausplaudern",0,1
+"to build a rapport","ein gutes Verhältnis aufbauen",0,0
+"emperor","Herrscher",0,0
+"scent","Duft",0,0
+"peninsula","Halbinsel",0,0
+"petals","Blütenblätter",0,0
+"soaked","einweichen",0,0
+"ingest","(Nahrung) aufnehmen",1,0
+"purify","reinigen",0,0
+"fragrance","Duft, Aroma",0,0
+"inhaling","einatmen, inhalieren",0,0
+"cinnamon","Zimt",0,0
+"soar","aufsteigen",0,0
+"glove","Handschuhe",0,0
+"putrid","verfault",0,0
+"withdraw","zurückziehen",0,0
+"retaliate","vergelten",0,0
+"mayhem","Chaos",0,0
+"sow","säen",0,0
+"lull","Pause",0,0
+"meddle","einmischen",0,0
+"theft","Diebstahl",0,0
+"embassy","Botschaft",0,0
+"sue","verklagen",0,0
+"in court","vor Gericht",0,0
+"lawsuit","Klage",0,0
+"divert","umleiten",0,0
+"disclose","enthüllen, bekannt geben",1,0
+"off guard","unvorbereitet",1,0
+"intercept","abhören",0,0
+"indictment","Anklage",0,0
+"aggravate","erschweren 2) reizen",0,1
+"concoction","Gebräu",0,0
+"prolific","produktiv",0,0
+"voraciously","unersättlich",0,0
+"attentive","aufmerksam",0,1
+"polyglot","mehrsprachig",0,0
+"quotidian","alltäglich",0,0
+"staid","gesetzt",0,0
+"romp","tummeln",0,0
+"precocious","frühreif",0,0
+"rarefied","exklusiv",0,0
+"undertow","sog",0,0
+"explicable","erklärbar",0,0
+"ballot","Abstimmung, Wahl",0,0
+"beg","betteln",0,0
+"draft","Entwurf",0,0
+"bill","Rechnung 2) Gesetzesentwurf",0,0
+"unveil","vorstellen, enthüllen",0,0
+"veil","Schleier",0,0
+"intoxication","Rausch",0,0
+"moisture","Feuchtigkeit, Nässe",0,0
+"precipitation","Niederschlag",0,0
+"brace","stützen, stärken",0,0
+"sleet","Schneeregen",0,0
+"commute","pendeln",0,0
+"shelter","Obdach, Zuflucht, beschützen",0,0
+"waive","erlassen",0,0
+"prolong","verlängern",1,0
+"feud","Streit",0,0
+"obligate","verpflichten",0,0
+"to owe","schulden, schuldig sein",0,0
+"depts","Schulden",0,0
+"desperate","verzweifelt, krampfhaft",0,0
+"efficacy","Zweckmäßigkeit",0,0
+"concede","eingestehen",0,0
+"scrap","verschrotten, ausrangieren",0,0
+"treatment","(ärztliche) Behandlung",0,0
+"donor","Spender",0,0
+"purport","vorgeben, behaupten",0,0
+"rigorous","gründlich, streng",0,0
+"deficiency","Defizit",1,0
+"duty","Pflicht",0,0
+"beholden","verpflichtet",0,1
+"discern","erkennen, wahrnehmen",0,0
+"discernable","erkennbar, wahrnehmbar",0,0
+"perspiration","Schwitzen",0,0
+"preliminary","vorläufig",0,0
+"peril","Gefahr, Risiko",0,0
+"perilously","gefährlich",0,0
+"imperil","gefährden",0,0
+"collar","Halsband",1,0
+"scrutinize","prüfen",0,0
+"ponder","überlegen, erwägen (esp. before making a decision)",0,0
+"census","Volkszählung",0,0
+"eradicate","ausrotten",0,0
+"officials","Beamte",0,0
+"credible","glaubwürdig",0,0
+"reluctance","Abneigung",0,0
+"reluctant","unwillig",0,0
+"denial","Leugnung, Ablehnung",0,0
+"deputy","Stellvertreter",0,0
+"depute","delegieren, übertragen",0,0
+"notoriety","schlechter Ruf",0,0
+"notorious","verrufen",0,0
+"hazard","Risiko, Gefahr",0,0
+"inconsiderate","rücksichtslos",0,0
+"harvest","ernten",0,0
+"testimony","Aussage",0,0
+"misgivings","Bedenken",0,0
+"illicit","unerlaubt, illegal",0,0
+"shenanigan","Spielerei",0,0
+"behest","Geheiß, Bestellung",0,0
+"rural","ländlich",0,0
+"linger","verweilen",0,0
+"smug","selbstgefällig, selbstzufrieden",0,0
+"neglect","vernachlässigen",0,0
+"parcel","Paket",0,0
+"vacant","unbesetzt (unbesetztes Grundstück -> vacant lot)",0,0
+"rent","Miete",0,0
+"huddle","Haufen, zusammendrängen",0,0
+"miscarriage","Fehlgeburt",0,0
+"engulf","überschüttet, verschlingen",0,0
+"shortage","Mangel",0,0
+"crackdown","hart durchgreifen",0,0
+"obliterate","auslöschen",0,0
+"hitchhike","trampen",0,0
+"treacherous","tückisch, verräterisch",0,0
+"treacher","Verräter",0,0
+"infant","Säugling",0,0
+"sprawling","erstrecken, weitläufig",0,0
+"outskirts","Stadtrand",0,0
+"to file past","vorbeiziehen",0,0
+"laceration","Schnittwunde",0,0
+"blister","Blase (skin)",0,0
+"blanket","Decke",0,0
+"makeshift","Not-, improvisiert, behelfsmäßig",0,0
+"bedding","Bettwäsche",0,0
+"cave in","einstürzen",0,0
+"spur","anspornen",0,0
+"vast","riesig",0,0
+"summit","Gipfel",0,0
+"pasture","Weideland",0,0
+"creek","Bach",0,0
+"sprain","Verstauchung, verstauchen",0,0
+"tantamount","gleichbedeutend",0,0
+"infuriating","äußerst ärgerlich",0,0
+"to infuriate","wütend machen",0,0
+"madden","verrückt machen",0,0
+"gild","vergolden",0,0
+"emanate","ausgehen, ausströmen",0,0
+"pal","Kumpel",0,0
+"sizzle","brutzeln",0,0
+"hissle","zischen",0,0
+"contend","sich für etwas einsetzen",0,0
+"contender","Anwärter",1,0
+"surmount","überwinden 2.) krönen",0,0
+"guardrail","Leitplanke",0,0
+"ardent","leidenschaftlich",0,1
+"wield","1 hantieren (Waffe, Werkzeug) 2 Einfluss ausüben",0,0
+"tempting","verlockend",0,0
+"filthy","schmutzig",0,0
+"filth","Unrat, Schmutz",0,0
+"rig","Ausrüstung 2) manipulieren",0,0
+"spinal","Rückenmark",0,0
+"spine","Rückgrat",0,0
+"debilitating","schwächend",0,0
+"ungodly","gottlos",0,0
+"rife","weit verbreitet (etwas schlechtes, schädliches)",0,0
+"grant","gewähren",0,0
+"incentivize","Anreiz schaffen",0,0
+"incentive","Anreiz",0,0
+"deprive","vorenthalten, ausschließen",0,0
+"dearly","teuer, inniglich",0,0
+"reap","ernten",0,0
+"fee","Honorar, Entgelt",1,0
+"inquiry","Anfrage",0,0
+"surge","Woge",0,0
+"surgery","Chirurgie",1,0
+"guilt","Schuld",0,0
+"enrollment","Anmeldung, Einschreibung, Immatrikulation",0,0
+"xenophobia","Fremdenfeindlichkeit",0,0
+"prescribe","vorschreiben, anordnen",0,0
+"panaceas","Allheilmittel",0,0
+"underpin","untermauern",0,0
+"malady","Krankheit",0,0
+"ailment","Leiden, Beschweren",0,1
+"endeavor","Bemühung, bemühen",0,0
+"decree","Dekret, Verordnung",0,0
+"compulsory","verpflichtend",0,1
+"outright","geradewegs, völlig",0,0
+"heretic","Ketzer",0,0
+"deem","erachten",0,0
+"dare","wagen, sich trauen",0,0
+"wry sense of humor","trockener Humor",1,0
+"rapacious","habgierig",0,0
+"trove","Fund",0,0
+"bashful","schüchtern",0,0
+"unprecedented","beispiellos",0,0
+"ranch","Viehfarm",0,0
+"cattle","das Vieh",0,0
+"underlain (underlie)","unterlegen, zugrunde liegen",0,0
+"irrigation","Bewässerung",0,0
+"irrigate","bewässern",0,0
+"tap","zapfen, Hahn",0,0
+"cotton","Baumwolle",0,1
+"grain","Korn",0,0
+"replenish","auffüllen",0,0
+"water table","Grundwasserspiegel",0,0
+"necessitate","erforderlich machen",0,0
+"pale","blass, verblassen",0,0
+"pond","Teich",0,0
+"hollow","hohl, aushöhlern, Hohlraum, Mulde, Vertiefung",0,0
+"crop","Ernte",0,0
+"resilient","belastbar",0,0
+"recoil","Rückstoß, zurückschrecken",0,0
+"temperate","gemäßigt",0,0
+"vacate","räumen, freimachen",0,0
+"inhibit","hemmen",0,0
+"deride","verspotten",0,0
+"contention","Streit",0,0
+"chide","schelten",0,1
+"jeopardy","Gefahr",0,0
+"rebuke","tadeln, zurechtweisen",0,0
+"bust","Busen 2) pleite 3) kaputtgehen",0,0
+"venture","wagen, Wagnis",0,0
+"prevalent","vorherrschend",0,0
+"prevail","vorherrschen",0,0
+"perish","umkommen, zugrunde gehen",0,0
+"deer","Hirsch",0,0
+"marsh","Sumpf",0,1
+"meadow","Wiese, Weide",0,1
+"shrub","Strauch",0,0
+"herb","Kraut",0,1
+"dormancy","Ruhezustand",0,0
+"dormant","ruhend, schlafend",0,0
+"hibernate","überwintern, Winterschlaf halten",0,0
+"fodder","Futter",1,0
+"bemoan","beklagen",0,0
+"game","Wild, Spiel",0,0
+"picturesque","malerisch",0,0
+"bode","ahnen lassen",0,0
+"plight","Notlage, Elend",0,0
+"encroach","eingreifen",0,0
+"fate","Schicksal",0,0
+"logging","Holzfällen",0,0
+"nutritive","nahrhaft",0,0
+"nutrient","Nährstoff",0,0
+"bead","Perlen",0,0
+"carve","schnitzen",0,0
+"crude","grob, primitiv 2) roh",0,0
+"confine","beschränken",0,0
+"fertility","Fruchtbarkeit",1,0
+"fertile","fruchtbar",0,0
+"deposit","Ablagerung, ablagern",0,0
+"bury","begraben, beerdigen",0,0
+"dismantle","abbauen, demontieren",0,0
+"fertilize","düngen",0,0
+"deteriorate","sich verschlechtern",0,0
+"it was not until","Erst als",0,0
+"greenhouse","Gewächshaus, Treibhaus",0,0
+"stance","Haltung, Einstellung",0,0
+"impede","behindern, erschweren",0,1
+"bear","hervorbringen",0,0
+"uphold","wahren, aufrechterhalten",0,0
+"transboundary","grenzüberschreitend",0,0
+"hatch","Luke 2) ausschlüpfen",0,0
+"indolence","Trägheit, Faulheit",0,0
+"daunting","entmutigend",0,0
+"far-fetched","weit hergeholt",0,0
+"take office","Amt übernehmen",0,0
+"rever","verehren",0,0
+"magnify","vergrößern (Lupe)",0,0
+"magnifying glass","Lupe",0,0
+"riot","randalieren, Aufstand, Krawall",0,0
+"uprising","Aufstand",0,0
+"detain","in Haft behalten",0,0
+"detention","Haft",0,0
+"imprison,","einsperren, inhaftieren",0,0
+"custody","Haft, Gewahrsam",0,0
+"commemorate","gedenken",0,0
+"solemn","feierlich",0,0
+"vow","Gelübde, Versprechen",0,0
+"content","Inhalt 2) zufrieden, zufrieden stellen",0,0
+"discontent","Unzufriedenheit, unzufrieden",0,0
+"contentment","Zufriedenheit",0,0
+"discontentment","Unzufriedenheit",0,0
+"vigilant","wachsam",0,1
+"vortex","Wirbel, Strudel",1,0
+"rein","Zügel",0,0
+"to rein in","in Schranken halten",0,0
+"confide","vertrauen, anvertrauen",0,0
+"ply","Schicht",0,0
+"benevolent","wohlwollend, gütig",0,0
+"convene","einberufen, versammeln",0,0
+"tenacious","zäh, hartnäckig",0,0
+"cling","festhalten, sich festklammern",0,0
+"revolt","Aufstand, Revolte, Rebellion",0,0
+"verve","Elan, Begeisterung",0,0
+"pedestal","Sockel, Podest",0,0
+"indigenous","einheimisch",0,0
+"obstruct","behindern, blockieren",0,0
+"repel","abwehren, zurückschlagen, zurückweisen",0,0
+"allege","behaupten, unterstellen",0,1
+"alleged","angeblich",0,1
+"annuity","Jahresrente",0,1
+"pension","Rente",0,0
+"scribble","kritzeln, krakeln",0,0
+"recede","zurücktreten, zurückgehen",0,0
+"revolve","sich drehen, kreisen",0,0
+"impose","verhängen, auferlegen",0,0
+"subsidiary","untergeordnet, Tochtergesellschaft",0,0
+"estate","Immobilien, Anwesen",0,0
+"commodity","Ware, Rohstoff",0,0
+"behalf","im namen",0,0
+"mutual","gegenseitig, gemeinsam",0,0
+"mutuality","Gegenseitigkeit",0,0
+"incline","neigen, Neigung",0,0
+"levy","(Steuern) erheben, Steuererhebung",0,0
+"labor","Arbeit",1,0
+"labor market","Arbeitsmarkt",0,0
+"occupation","Besetzung, Beruf, Tätigkeit",0,0
+"pervasive","allgegenwärtig",0,0
+"compassion","Barmherzigkeit, Mitgefühl",0,0
+"pity","Mitleid, bemitleiden, bedauern",0,1
+"pitiful","erbärmlich, bemitleidensewrt",0,0
+"sorrow","Trauer",0,0
+"trait","Merkmal, Eigenschaft, Charakterzug",0,0
+"mayor","Bürgermeister",0,0
+"bribe","bestechen, Bestechung",0,0
+"inducement","Anreiz",0,0
+"expose","entlarven, aufdecken",0,0
+"to be exposed to","ausgesetzt sein",0,0
+"excel","übertreffen, hervorragend sein, sich selbst übertreffen",0,0
+"rebut","widerlegen",0,0
+"elaborate","erarbeiten; ausführlich, ausgeklügelt, umfangreich",0,0
+"ravage","verwüsten",0,0
+"debris","Trümmer",1,0
+"coroner","Gerichtsmediziner",0,0
+"consolidate","konsolidieren, festigen",0,0
+"fierce","heftig, bösartig",0,0
+"outpouring","Erguss",0,0
+"pile","Stapel, Haufen",0,0
+"relief","Linderung, Hilfe",0,0
+"influx","Zustrom, Zuzug",0,0
+"salvage","Bergung, bergen, retten",0,0
+"charity","wohltätige Einrichtung, Nächstenliebe",0,0
+"loan","Darlehen, leihen",0,0
+"restitution","Rückerstattung, Entschädigung",0,0
+"cease","aufhören, einstellen, beenden",0,0
+"equity","Gerechtigkeit, Eigenkapital",0,0
+"deduction","Abzug, Abrechnung",0,0
+"deduct","abziehen",0,0
+"deduce","ableiten, folgern",0,0
+"mortgage","Hypothek",0,0
+"earmark","kennzeichnen",0,0
+"plaintiff","Kläger (Gericht)",0,0
+"touchy","empfindlich",0,0
+"irritable","reizbar",0,0
+"skimp","knausern, sparen",0,0
+"opt (for)","sich für etwas entscheiden",0,0
+"deplete","aufbrauchen, ausbeuten",1,0
+"insulation","Isolierung",0,0
+"camouflage","tarnen",0,0
+"emerge","entstehen",0,0
+"parrot","Papagei",0,0
+"semen","Samen, Sperma",0,0
+"endemic","einheimisch",0,0
+"tote","schleppen, tragen, bei sich haben",0,0
+"brink","Rand (des Abgrunds)",0,0
+"oddity","Kuriosität, Eigenartigkeit",0,0
+"waddle","watscheln",0,0
+"beak","Schnabel",0,0
+"comical","komisch, drollig, ulkig, putzig",0,0
+"to mate","paaren",0,0
+"stoat","Wiesel",0,0
+"devour","verschlingen",0,0
+"conservation","Naturschutz",0,0
+"vigorously","energisch",0,0
+"captivity","Gefangenschaft",0,0
+"to rear","aufziehen, großziehen",0,0
+"affectionately","liebevoll",0,2
+"affection","Zuneigung",0,2
+"fond","lieb",0,0
+"cavity","Hohlraum",0,0
+"eager","eifrig, sehnsüchtig",0,0
+"grocery store","Lebensmittelgeschäft",0,0
+"boar","Wildschwein, Eber",0,0
+"tusk","Stoßzahn",0,0
+"foster","pflegen, hegen, fördern, unterstützen",0,0
+"evaporate","verdampfen",0,0
+"shed","Schuppen, verlieren, abwerfen",0,0
+"portrude","vorstehen, herausragen",0,0
+"hurl","schleudern",0,0
+"deliberate","bewusst, absichtlich 2) beraten, überlegen",0,0
+"unfounded","unbegründet, grundlos, unfundiert",0,0
+"rival","Rivale, Konkurrent, konkurrieren",0,0
+"obey","gehorchen, befolgen",0,0
+"deceive","täuschen, betrügen, hintergehen",0,0
+"bride","Braut",0,0
+"shelling","Beschuss",0,0
+"drown","ertrinken",0,0
+"rehearsal","Probe",0,0
+"divine","göttlich",0,0
+"digress","(vom Thema) abschweifen",0,0
+"recount","erzählen, wiedergeben",0,0
+"due","fällig, schuldig",0,0
+"dues","Gebühren",0,0
+"overdue","überfällig",1,0
+"taut","straff, gespannt",0,0
+"deteriorate","sich verschlechtern",0,0
+"antecedent","Vorläufer, früher, vorangehend",0,1
+"fibrous","faserig",0,0
+"profuse","reichlich, üppig",0,0
+"exuberant","überschwänglich, lebendig, übersprudelnd",0,0
+"exuberantly happy","überglücklich",0,0
+"giddily","schwindelig, Schwindel erregend",0,0
+"percolate","versickern",0,0
+"leach","filtern",0,0
+"incidental","zufällig 2) nebensächlich, Nebensache",0,0
+"whale","Wahl",0,0
+"mammal","Säugetier",0,0
+"cetacean","Wahltier",0,0
+"gill","Kieme",0,0
+"streamlined","windschnittig",0,0
+"hind ...","hintere",0,0
+"hind legs","Hinterbeine",0,0
+"disguise","verschleiern, verhüllen, tarnen, Verkleidung",0,0
+"conceal","verbergen, verdecken",0,0
+"limb","Glied, Ast",0,1
+"envision","vorstellen",0,0
+"jaw","Kiefer, quatschen, quasseln",0,0
+"flesh","Fleisch",0,0
+"calf","Wade",0,0
+"thighs","Oberschenkel",0,1
+"suspicious","verdächtig, misstrauisch",1,0
+"leverage","zu seinem Vorteil nutzen",1,0
+"plead","plädieren",0,0
+"vaccinate","impfen",0,0
+"condescend","sich herablassen",0,0
+"proximity","Nähe",0,0
+"fabric","Stoff, Gewebe",0,0
+"qualm","Bedenken",0,0
+"utterly","völlig, äußerst",0,0
+"wary","vorsichtig, misstrauisch",0,0
+"irrevocable","unwiderruflich",0,0
+"pertain","betreffen",0,0
+"lavish","verschwenderisch, verschwenden",0,0
+"bestow","verleihen",0,1
+"laudable","lobenswert",0,0
+"remedy","heilen, bessern, Abhilfe, Heilmittel",0,0
+"calamitous","katastrophal",0,0
+"settle a dispute","Streit schlichten",0,0
+"reconcile","versöhnen, schlichten",1,0
+"ubiquity","Allgegenwart",0,0
+"enigmatic","rätselhaft",0,0
+"embark","einschiffen",0,0
+"salvation","Erlösung (christlich)",0,0
+"postpone","verschieben, aufschieben, vertagen",0,0
+"hedge","Hecke, absichern, Fragen ausweichen",0,0
+"errant","umherstreifend, fehlgeleitet",0,0
+"stray","verirrt, abkommen",0,0
+"annihilation","Vernichtung, Zerstörung",0,1
+"annihilate","vernichten, zerstören",0,1
+"shatter","zerbrechen, zerschmettern",0,1
+"missile","Geschoss",0,0
+"onslaught","Ansturm, Angriff",0,0
+"deflect","ablenken",0,0
+"squid","Tintenfisch",0,0
+"hue","Farbton",1,0
+"peculiar","eigenartig, sonderbar",0,0
+"iridescent","schillernd",0,0
+"peacock","Pfau",0,0
+"diligence","Sorgfalt, Fleiß",0,0
+"compelling","fesselnd, überweltigend, unwiderstehlich",0,0
+"to be on the line","auf der Kippe stehen",0,0
+"syllabus","Lehrplan",0,0
+"superficial","oberflächlich",0,0
+"repercussion","(negative) Rückwirkung, Nachspiel",0,0
+"guts","Eingeweide",0,0
+"febrile","fieberhaft",0,0
+"eschew","scheuen, vermeiden",1,0
+"bequeath","vererben, erlassen",0,0
+"endow","stiften, schenken",0,0
+"clog","verstopfen",0,0
+"proliferation","(schnelle) Vermehrung, Wucherung",0,0
+"prey","Beute",0,0
+"excrete","ausscheiden",0,0
+"excretion","Ausscheidung, Exkret",0,0
+"journal","Tagebuch",0,0
+"manifest","zeigen, sich offenbaren",0,0
+"overt","offen",0,0
+"covert","verdeckt",0,0
+"hemp","Hanf",0,0
+"groundhog","Murmeltier",0,0
+"scramble","Gerangel, Gedrängel",0,0
+"tumble","hinfallen",0,0
+"tuition","Studiengebühr, Schulgeld",0,0
+"shell","Schale",0,0
+"sink","Spüle",0,0
+"necklace","Halskette",0,0
+"delusion","Täuschung",0,0
+"affiliate","verbinden, anschließen, als Mitglied aufnehmen",0,1
+"solitude","Einsamkeit, Abgeschiedenheit",0,0
+"savvy","kapieren, Know-How",0,0
+"shrewdness","Klugheit, Schlauheit",0,0
+"shrewd","klug, schlau",0,0
+"astute","scharfsinnig, raffiniert",0,1
+"cringe","zusammenzucken",0,0
+"agonish","quälend",0,1
+"agonize","quälen, erleiden",0,1
+"excruciate","quälen",0,0
+"fire crackers","Feuerwerkskörper",0,0
+"marble","Marmor",0,0
+"honk","Hupen, hupen",0,0
+"throng","Gedränge, Menschenmenge, sich drängen",0,0
+"specter","Gespenst",0,0
+"loom","sich anbahnen",0,0
+"leap","springen, Sprung",0,0
+"forefront","Vordergrund",0,0
+"chilly","kühl, frostig",0,0
+"drizzle","Nieselregen, nieseln",0,0
+"dire","schrecklich, fatal",0,0
+"devastate","verwüsten, verheeren",0,0
+"sloth","Faultier",0,0
+"upend","umkehren",0,0
+"acumen","Scharfsinn",0,2
+"coalesce","verschmelzen, sich vereinigen",0,0
+"enlist","anwerben, einberufen",0,1
+"fizz","Sprudel",0,0
+"effervescence","Sprudeln",0,0
+"balm","Balsam",0,0
+"insult","beleidigen, Beleidigung",0,0
+"scorn","Verachtung, verachten",0,0
+"contempt","Verachtung, Geringschätzung, Missachtung",0,0
+"contemptuous","verächtlich, geringschtätzig",0,0
+"chime","ertönen, erklingen, Glockenspiel, Geläut",0,0
+"arduous","beschwerlich",0,1
+"contemplate","betrachten, nachdenken",0,0
+"permeable","durchlässig",0,0
+"delineate","beschreiben, darstellen",0,0
+"envisage","vorstellen, voraussehen",0,0
+"naughty","versaut",0,0
+"public transportation","öffentliche Verkehrsmittel",0,0
+"subsidize","subventionieren",0,0
+"subsidy","Subvention",0,0
+"tangible","fühlbar",0,0
+"thrive","gedeihen",0,0
+"reclamation","Rückgewinnung",0,0
+"desalination","Entsalzung",0,0
+"desert","Wüste 2) im Stich lassen",0,0
+"litter","Abfall, Abfall wegwerfen",0,0
+"foil","Folie",0,0
+"endure","aushalten",0,0
+"respiration","Atmung",0,0
+"segregate","trennen",0,0
+"eyesore","Schandfleck",0,0
+"sore","wund, wunde Stelle",0,0
+"ribbon","Band",0,0
+"harness","nutzbar machen",0,0
+"realm","Königreich",0,0
+"lawn","Rasen, Wiese",0,1
+"churn out","am Fließband produzieren",0,0
+"furious","wütend",0,1
+"weld","schweißen",0,0
+"spill","verschütten, Verschüttung",0,0
+"hull","Rumpf",0,0
+"intern","Praktikant",0,0
+"internship","Praktikum",0,0
+"generous","großzügig",0,0
+"fur","Pelz, Fell",0,0
+"servant","Diener",1,0
+"bonnet","Haube",0,0
+"vessel","Schiff",0,0
+"recess","Nische 2) Pause",0,0
+"vigor","Kraft, Energie, Ausdruckskraft",0,0
+"fatigue","Müdigkeit, ermüden",0,0
+"nascent","werdend, entstehend",0,0
+"feign","vortäuschen, heucheln",0,0
+"corpse","Leiche",0,0
+"cognizant","wissend, Kenntnis habend",0,0
+"exclaim","ausrufen, aufschreien",0,0
+"decease","sterben, Tod",0,0
+"attest","bezeugen",0,1
+"amicable","freundschaftlich",0,1
+"rupture","Bruch, Entzweiung",0,0
+"diffident","schüchtern, zurückhaltend",0,1
+"erratic","unberechenbar",0,0
+"soluble","löslich",0,0
+"conjugal","ehelich",0,0
+"implicate","implizieren 2) verwickeln",0,0
+"medieval","mittelalterlich",0,0
+"retain","behalten, bewahren",0,0
+"figment of one’s imagination","Gebilde seiner Vorstellung",0,0
+"exterminate","vernichten",0,0
+"cockroach","Kakerlake",0,1
+"quest","Suche, suchen",0,0
+"docile","fügsam",0,0
+"veracity","Richtigkeit, Wahrhaftigkeit",0,0
+"contiguous","zusammenhängend",0,0
+"continuous","kontinuierlich",0,0
+"brevity","Kürze, Knappheit",0,0
+"constrict","verengen",0,0
+"convene","einberufen, versammeln",0,0
+"legible","lesbar",0,0
+"endorse","befürworten",0,0
+"protrude","vorstehen, hervorragen",0,0
+"garment","Kleidungsstück",0,0
+"mercury","Quecksilber",0,0
+"ore","Erz",0,0
+"spongy","schwammig",0,0
+"sponge","Schwamm",0,0
+"bog","Moor",1,0
+"peat","Torf",0,0
+"fissure","Fissur, Spalt",0,0
+"rubble","Schutt",0,0
+"tidal","Gezeiten",0,0
+"tide","Gezeiten",0,0
+"low tide","Ebbe",0,0
+"high tide","Flut",0,0
+"tin","Zinn",0,0
+"zinc","Zink",1,0
+"stove","Ofen",0,0
+"smokestack","Schornstein",0,0
+"chimney","Schornstein",0,0
+"funnel","Trichter, kanalisieren",0,0
+"haul","befördern 2) Strecke 3) Beute",0,0
+"vendor","Verkäufer",0,0
+"stab","niederstechen",0,0
+"pierce","durchstechen",0,0
+"prick","anstechen",0,0
+"sting","Stachel, stechen",0,0
+"jagged","gezackt",0,0
+"pungent","beißend, penetrant (Geruch/Geschmack)",0,0
+"soot","Ruß",0,0
+"waft","wehen, Hauch",0,0
+"gleam","glänzen, Glanz",1,0
+"pneumonia","Lungenentzündung",0,0
+"shaggy","zottelig, struppig",0,0
+"cozy","gemütlich",0,0
+"pillow","Kissen",0,0
+"dough","Teig",0,0
+"intimidating","einschüchternd",1,0
+"incessantly","unaufhörlich, ununterbrochen",0,0
+"boiler","Kessel",0,0
+"blanket","Decke",0,0
+"tenuous","dünn",0,0
+"cough","husten",0,0
+"ineffectual","unwirksam, ineffektiv",0,0
+"neglect","vernachlässigen",0,0
+"suffocate","ersticken",0,0
+"curtail","kürzen (Restriktionen setzen)",1,0
+"suffrage","Wahlrecht",0,0
+"assent","Zustimmung, Genehmigung",0,1
+"observance","Beachtung, Einhaltung, Befolgung",0,0
+"duly","ordnungsgemäß",0,0
+"unduly","übermäßig, übertrieben",0,0
+"convict","verurteilen, Verurteilter",0,0
+"jurisdiction","Gerichtsbarkeit",0,0
+"designated","vorgesehen",0,0
+"thenceforward","von da an",0,0
+"servitude","Knechtschaft, Sklaverei",0,0
+"affirm","bestätigen, öffentlich erklären 2) betreuen",0,1
+"racial segregation","Rassentrennung",0,0
+"genuine","authentisch",0,0
+"idly","untätig",0,0
+"deplore","bedauern, beklagen",0,0
+"grapple","kämpfen, ringen (ohne Waffen)",0,0
+"gainsay","leugnen",0,0
+"grossly","grob",0,1
+"merchant","Händler, Kaufmann",0,0
+"humiliate","demütigen",0,0
+"moratorium","Stopp",0,0
+"conscience","Gewissen",0,0
+"ordeal","Tortur",0,0
+"confess","bekennen, gestehen",0,0
+"earnest","ernsthaft",0,0
+"restrain","bändigen, zurückhalten",0,0
+"appraisal","Bewertung, Abschätzung",0,1
+"appraise","bewerten, abschätzen",0,1
+"inevitable","unausweichlich, zwangsläufig",0,0
+"to be bogged down","festgefahren sein",0,0
+"untimely","ungelegen, verfrüht",0,0
+"prod","anspornen, Ansporn",0,0
+"futile","sinnlos, zwecklos",0,0
+"futility","Sinnlosigkeit, Zwecklosigkeit",0,0
+"vicious","bösartig",0,0
+"whim","Laune",0,0
+"curse","Fluch, verfluchen",0,0
+"smother","ersticken",0,0
+"midst","Mitte",0,0
+"stammer","stammeln, stottern",0,0
+"county","Bezirk",0,0
+"nag","meckern, herumnörgeln",0,0
+"despair","Verzweiflung",0,0
+"resent","sich ärgern",0,0
+"resentment","Groll",0,0
+"indignation","Empörung",0,1
+"relegate","degradieren",0,0
+"consign","übergeben",0,1
+"ordinance","Verordnung",0,0
+"enact","(Recht) erlassen",0,0
+"devise","entwickeln, entwerfen",0,0
+"devious","umständlich",0,0
+"evade","ausweichen",0,0
+"defy","trotzen, sich widersetzen",0,0
+"sublime","erhaben",0,0
+"chop","hacken",0,0
+"lukewarm","lauwarm",0,0
+"dam","Damm, Staudamm",0,0
+"obnoxious","widerlich, unausstehlich",0,0
+"plight","Notlage, Misere, Elend",0,0
+"condemn","verurteilen, verdammen",0,0
+"robbery","Raub",0,0
+"rob","rauben",0,0
+"unswerving","unerschütterlich",0,0
+"hurry","Eile, eilen",0,0
+"appalling","entsetzlich",0,2
+"repent","bereuen",0,0
+"ripe","reif",0,0
+"quicksand","Treibsand",0,0
+"clergyman","Geistliche",0,0
+"complacency","Selbstzufriedenheit, Selbstgefälligkeit",0,0
+"complacent","selbstzufrieden, selbstgefällig",0,0
+"hatred","Hass, Abscheu",0,0
+"repudiate","abweisen, zurückweisen",0,0
+"corrigible","korrigierbar",0,0
+"incorrigible","unverbesserlich",1,0
+"rabble","Pöbel",0,0
+"solace","Trost, trösten",0,0
+"consolation","Trost",0,0
+"bleak","trostlos, öde",0,0
+"dreary","trostlos",0,0
+"oppress","unterdrücken",0,0
+"yearning","Sehnsucht",0,0
+"pent","eingeschlossen",0,0
+"outlet","Auslauf, Abfluss 2) Verkaufsstelle",0,0
+"valve","Ventil",0,0
+"despiteful","bösartig",0,0
+"malice","Bosheit",0,0
+"persecute","verfolgen, schikanieren, belästigen",0,0
+"righteousness","Gerechtigkeit",0,0
+"butchery","Gemetzel",0,0
+"eloquent","wortgewandt",0,0
+"infest","befallen (von Insekten o.a.), herfallen über",0,0
+"commend","loben",0,0
+"nurture","nähren",0,0
+"bosom","Busen",0,0
+"stain","Fleck, beflecken, beschmutzen",0,0
+"grievance","Beschwerde, Klage, Unzufriedenheit",0,0
+"admonish","ermahnen",0,2
+"infanticide","Kindestötung",0,0
+"extricable","trennbar",0,0
+"inextricable","untrennbar",0,0
+"congregation","Gemeinde",0,0
+"sacred","heilig, geistlich",0,0
+"impel","treiben",0,0
+"treason","Landesverrat",0,0
+"drench","tränken, durchnässen",0,0
+"scintillate","funkeln",0,0
+"fetter","Fessel, fesseln",0,1
+"lamentable","beklagenswert",0,0
+"petty","belanglos",0,0
+"profundity","Tiefgründigkeit",0,0
+"superficiality","Oberflächlichkeit",0,0
+"livestock","Viehbestand",0,0
+"devoid of","ohne",0,0
+"lacking in","mangeln an",0,0
+"delicate","zart, empfindlich",0,0
+"to be far in excess of","weit über",0,0
+"graze","weiden, grasen",0,0
+"susceptible","anfällig, empfänglich",0,0
+"equilibrium","Gleichgewicht",0,0
+"impart","vermitteln",0,0
+"journeyman","Geselle",0,0
+"dependable","zuverlässig",0,0
+"mill","Mühle",0,0
+"tailor","Schneider, schneidern",0,0
+"courtship","Brautwerbung",0,0
+"sleek","glatt, geschmeidig",1,0
+"flush","spülen 2) bündig",0,0
+"tuck","stecken",1,1
+"groove","Rille, Furche",0,0
+"depression","Depression 2) Vertiefung",1,0
+"bladder","Blase, Harnblase",0,0
+"buoyant","schwimmend, schwimmfähig",0,0
+"envy","der Neid, beneiden",0,0
+"propulsion","Antrieb",0,0
+"tissue","Gewebe",0,0
+"sprain","verstauchen, Verstauchung",0,0
+"canoe","Kanu",0,0
+"rut","Trott",1,1
+"veer","abdrehen, ausscheren",0,0
+"gitty","Schotter-, grobkörnig",0,0
+"suit up","schick machen",0,0
+"dismay","Entsetzen, entsetzen",0,0
+"consternation","Entsetzen",0,0
+"unsanitary","unhygienisch",0,0
+"unruly","widerspenstig",0,0
+"glitter","funkeln, glitzern",1,0
+"puddle","Pfütze",0,0
+"rattle","Rassel, rasseln 2) Klappern, klappern",0,0
+"sneak","schleichen",0,0
+"courteously","höflich",0,0
+"squirm","sich winden",0,1
+"invertebrate","Wirbellosen",0,0
+"pour","strömen",0,0
+"saw","Säge, sägen",0,0
+"coffin","Sarg",0,0
+"streak","Streifen, streifen",0,0
+"cavern","Höhle (meistens große Höhle)",0,0
+"tore","reißen, zerreißen",0,0
+"edible","essbar",0,0
+"obscene","obszön",0,0
+"raze","(komplett) zerstören (Haus, Stadt)",0,0
+"raid","Überfall, Angriff",0,1
+"strip away","abbauen",0,0
+"sliver","Splitter",0,0
+"resolute","entschlossen",0,1
+"fraternization","Verbrüderung",0,0
+"facilitate","erleichtern",0,0
+"downtown","Innenstadt",0,0
+"graceful","anmutig",0,0
+"dorm","Wohnheim",1,0
+"fastidious","anspruchsvoll, wählerisch",0,1
+"metabolic","Stoffwechsel-",0,0
+"worn down","abgenutzt",0,0
+"skirt","Rock",0,0
+"drapery","Textilwaren, Vorhang",0,0
+"wand","Stab",0,1
+"rod","Stange",0,0
+"stint","Arbeitsanteil",0,0
+"silk","Seide",0,0
+"expanse","Ausdehnung, Fläche",1,0
+"befriend","befreundet sein",0,0
+"piston","Kolben",0,0
+"struck","schlagen, treffen",0,0
+"pun","Wortspiel",0,0
+"mar","verderben, ruinieren, trüben",0,0
+"impair","beeinträchtigen, verschlechtern",0,0
+"disfigure","entstellen, verunstalten",0,0
+"unfazed","unbeeindruckt",0,0
+"perturb","stören, beunruhigen",0,0
+"hypothermia","Unterkühlung",0,0
